@@ -18,14 +18,5 @@
     "fracty": "^1.0.11",
     "regenerator-runtime": "^0.13.9",
     "sass": "^1.54.8"
-  },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/163-steveshi/forkify-js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/163-steveshi/forkify-js/issues"
-  },
-  "homepage": "https://github.com/163-steveshi/forkify-js#readme"
+  }
 }
