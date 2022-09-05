@@ -19,7 +19,7 @@
     "regenerator-runtime": "^0.13.9",
     "sass": "^1.54.8"
   },
-  "main": "index.js",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/163-steveshi/forkify-js.git"
