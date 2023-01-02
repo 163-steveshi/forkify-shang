@@ -108,18 +108,9 @@ class RecipeView extends View {
             <span class="recipe__publisher">${
               this._data.publisher
             }</span>. Please check out
-            directions at their website.
+            at their website.
           </p>
-          <a
-            class="btn--small recipe__btn"
-            href="${this._data.sourceUrl}"
-            target="_blank"
-          >
-            <span>Directions</span>
-            <svg class="search__icon">
-              <use href="${icons}#icon-arrow-right"></use>
-            </svg>
-          </a>
+       
         </div>`;
   }
   _generateMarkupIngredient(ing) {
